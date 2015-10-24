@@ -1,0 +1,5 @@
+2: FATAL: Erro no funcCall: chamada a funcao nao declarada. g
+
+3: FATAL: n undeclared
+terminate called after throwing an instance of 'char const*'
+./runtests.sh: line 24:  7238 Aborted                 ./pwn "$file"

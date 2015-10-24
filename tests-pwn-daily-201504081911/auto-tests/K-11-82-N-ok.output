@@ -1,0 +1,4 @@
+2: FATAL: s undeclared
+3: FATAL: n undeclared
+terminate called after throwing an instance of 'char const*'
+./runtests.sh: line 24:  7255 Aborted                 ./pwn "$file"

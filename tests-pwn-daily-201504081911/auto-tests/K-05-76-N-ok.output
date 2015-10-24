@@ -1,0 +1,2 @@
+terminate called after throwing an instance of 'char const*'
+./runtests.sh: line 24:  7153 Aborted                 ./pwn "$file"
